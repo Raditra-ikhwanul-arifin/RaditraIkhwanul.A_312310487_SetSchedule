@@ -15,7 +15,7 @@
 
 ## Output
 
-![alt text](img/loading_screen.JPG)
+![alt text](image(Asset)/loading_screen.JPG)
 
 ***Keterangan :***
 
@@ -23,7 +23,7 @@
 
 ## Output
 
-![alt text](img/sign_in.JPG)
+![alt text](image(Asset)/sign_in.JPG)
 
 ***Keterangan :***
 
@@ -31,7 +31,7 @@
 
 ## Output 
 
-![alt text](img/landing_page.JPG)
+![alt text](image(Asset)/landing_page.JPG)
 
 ***Keterangan :***
 
@@ -39,7 +39,7 @@
 
 ## Output
 
-![alt text](img/buatj_adwal.JPG)
+![alt text](image(Asset)/buatj_adwal.JPG)
 
 ***Keterangan :***
 
@@ -48,7 +48,7 @@
 
 ## Output
 
-![alt text](img/lihat_jadwal.JPG)
+![alt text](image(Asset)/lihat_jadwal.JPG)
 
 ***Keterangan :***
 
@@ -59,15 +59,17 @@
 Pada tahap ini kami berfokus untuk meningkatkan kualitas desain aplikasi untuk memberikan tampilan yang lebih modern, menarik, dan responsif. Perubahan desain mencakup:
 ## Apa yang Baru di Phase 2?
 
+- Penambahan halaman **Rename**, yang berbentuk logo titik 3 pada halaman landing page, berfungsi untuk merubah **user name** pengguna.
+- penambahan background pada setiap halaman. 
 - Penyesuaian tata letak pada setiap Halaman.
-- Penyesuaian Button, terutama pada halaman utama.
+- Penyesuaian Button, terutama pada halaman utama dan halaman lihat jadwal.
 - Peningkatan ikon dan elemen grafis agar lebih modern.
 - Penambahan Profil user pada halaman Utama.
 - Penambahan Launcher Icon baru untuk identitas aplikasi.
 
 ### Launcher Icon
 
-<img src="img/s_logo.png" alt="Android Logo" width="250" height="250">
+<img src="image(Asset)/s_logo.png" alt="Android Logo" width="250" height="250">
 
 Berikut ini adalah icon aplikasi Set Schedule
 
@@ -75,42 +77,50 @@ Berikut ini adalah icon aplikasi Set Schedule
 
 ### 1. Splash Screen
 
-<img src="img/loadingScreen.jpg" alt="Android Logo" width="250" height="500">
+<img src="image(Asset)/loading_screen p2.jpg" alt="Android Logo" width="250" height="500">
 
 Berikut ini adalah Halaman pertama yang muncul dengan menampilkan logo dan nama aplikasi dari Set Schedule.
 
 ### 2. Sign in
 
-<img src="img/signIn.jpg" alt="Android Logo" width="250" height="500">
+<img src="image(Asset)/sign p2-2.jpg" alt="Android Logo" width="250" height="500">
 
 Halaman Selanjutnya yaitu Halaman Sign In yang bertujuan untuk meng input nama User dari aplikasi Set Schedule ini
 
 ### 3. Beranda
 
-<img src="img/landingPage.jpg" alt="Android Logo" width="250" height="500">
+<img src="image(Asset)/landing_page p2-1.jpg" alt="Android Logo" width="250" height="500">
 
 Halaman utama setelah memasukan nama user ke dalam aplikasi. Menampilkan informasi utama seperti:
 
 - Buat Jadwal
 - Liat Jadwal
+- Username
+- Rename
 
 ### 4. Input Jadwal
 
-<img src="img/buatJadwal.jpg" alt="Android Logo" width="250" height="500">
+<img src="image(Asset)/buat_jadwal p2-2.jpg" alt="Android Logo" width="250" height="500">
 
 Selanjutnya Halaman ini Digunakan untuk menginput data kegiatan, seperti:
 
 - Masukan Judul Tugas.
 - Sesuaikan Tanggal/Bulan/Tahun.
+- Sesuaikan Jam.
 - Masukan kegiatan apa saja yang ingin di lakukan.
 
 ### 5. Lihat Jadwal
 
-<img src="img/lihatJadeal.jpg" alt="Android Logo" width="250" height="500">
+<img src="image(Asset)/lihat_jadwal p2.jpg" alt="Android Logo" width="250" height="500">
 
 Setelah Jadwal berhasil dibuat, User akan diarahkan ke halaman ini. yang berfungsi untuk:
 
 - Melihat jadwal tugas yang sudah di buat sebelumnya 
 - Menyelesaikan tugas apabila sudah selesai, dengan cara klik pada tumbol kotak centang.
 
-## SELESAI <img align="center" alt="iqbal-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
+### 6. Rename
+
+<img src="image(Asset)/rename p2-2.jpg" alt="Android Logo" width="250" height="500">
+
+Jika **user** merasa **username** nya salah atau ingin mengubah nya, dapat menekan tombol titik tiga yang berada pada halaman landing page, lalu akan menuju halaman ini. Selanjutnya tinggal tekan rubah.
+

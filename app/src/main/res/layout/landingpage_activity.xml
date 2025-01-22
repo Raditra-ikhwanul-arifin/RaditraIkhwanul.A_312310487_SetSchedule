@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+ <ImageView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:src="@drawable/gradient_backround"
+     android:scaleType="centerCrop"/>
+
+ <ImageView
+     android:id="@+id/imageBuatJadwal"
+     android:layout_width="120dp"
+     android:layout_height="115dp"
+     android:scaleType="fitCenter"
+     android:src="@drawable/clipboard"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.536"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.357"
+     tools:ignore="MissingConstraints" />
+
+ <TextView
+     android:id="@+id/textBuatJadwal"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_marginStart="11dp"
+     android:fontFamily="@font/inknutaqua"
+     android:text="Buat Jadwal"
+     android:textColor="#219A6E"
+     android:textSize="25sp"
+     android:textStyle="bold"
+     app:layout_constraintBottom_toTopOf="@+id/imageBuatJadwal"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.497"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="1.0"
+     tools:ignore="MissingConstraints" />
+
+ <TextView
+     android:id="@+id/appTitle1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_marginStart="12dp"
+     android:fontFamily="@font/interbold"
+     android:text="Raditrrv"
+     android:textColor="#10095C"
+     android:textSize="25sp"
+     android:textStyle="bold"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.0"
+     app:layout_constraintStart_toEndOf="@id/profileImage"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.046"
+     tools:ignore="MissingConstraints" />
+
+ <ImageView
+     android:id="@+id/buttonsetting1"
+     android:layout_width="46dp"
+     android:layout_height="50dp"
+     android:src="@drawable/baseline_more_vert_24"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.956"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.027"
+     tools:ignore="MissingConstraints" />
+
+ <ImageView
+     android:id="@+id/profileImage"
+     android:layout_width="68dp"
+     android:layout_height="68dp"
+     android:src="@drawable/profile"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.046"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.024"
+     tools:ignore="MissingConstraints" />
+
+ <ImageView
+     android:id="@+id/imageLihatJadwal"
+     android:layout_width="120dp"
+     android:layout_height="115dp"
+     android:src="@drawable/checklist"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.536"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.704"
+     tools:ignore="MissingConstraints" />
+
+ <TextView
+     android:id="@+id/textLihatJadwal"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:fontFamily="@font/inknutaqua"
+     android:text="Lihat Jadwal"
+     android:textColor="#922ECF"
+     android:textSize="25sp"
+     android:textStyle="bold"
+     app:layout_constraintBottom_toTopOf="@+id/imageLihatJadwal"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.521"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="1.0"
+     tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
