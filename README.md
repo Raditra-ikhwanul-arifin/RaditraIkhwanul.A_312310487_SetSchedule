@@ -124,5 +124,7 @@ Setelah Jadwal berhasil dibuat, User akan diarahkan ke halaman ini. yang berfung
 
 Jika **user** merasa **username** nya salah atau ingin mengubah nya, dapat menekan tombol titik tiga yang berada pada halaman landing page, lalu akan menuju halaman ini. Selanjutnya tinggal tekan rubah.
 
+https://github.com/user-attachments/assets/41afa205-1ee5-4891-8a51-ae82145849cf
+
 
 
