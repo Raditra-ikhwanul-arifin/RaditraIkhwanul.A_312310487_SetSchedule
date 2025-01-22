@@ -120,9 +120,9 @@ Setelah Jadwal berhasil dibuat, User akan diarahkan ke halaman ini. yang berfung
 
 ### 6. Rename
 
-<video controls src="image(Asset)/preview_setschedule.mp4" title="Title"></video>
+<img src="image(Asset)/rename p2-2.jpg" alt="Android Logo" width="250" height="500">
 
 Jika **user** merasa **username** nya salah atau ingin mengubah nya, dapat menekan tombol titik tiga yang berada pada halaman landing page, lalu akan menuju halaman ini. Selanjutnya tinggal tekan rubah.
 
-<video controls src="image(Asset)/preview_setschedule.mp4" title="Title"></video>
+
 
